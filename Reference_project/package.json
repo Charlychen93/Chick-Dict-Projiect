@@ -58,7 +58,7 @@
     "react": "^16.8.6",
     "react-app-polyfill": "^1.0.1",
     "react-custom-scrollbars": "^4.2.1",
-    "react-dev-utils": "^9.0.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.8.6",
     "react-draft-wysiwyg": "^1.13.2",
     "react-hot-loader": "^4.11.1",
